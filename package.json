@@ -1,0 +1,14 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "I am demonstrating npm",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Shaik",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
